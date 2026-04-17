@@ -9,7 +9,7 @@ Hi! I'm Priyanshi, and this is one of my end-to-end data analysis projects where
 ## How I Built This — Step by Step
 
 ### 1. Setting Up My Workspace
-- **Tools I Used**: VS Code, Python, MySQL, PostgreSQL
+- **Tools I Used**: VS Code, Python, MySQL
 - I set up a clean folder structure inside VS Code so everything stays organized as the project grows.
 
 ### 2. Getting the Data via Kaggle API
@@ -25,7 +25,7 @@ Hi! I'm Priyanshi, and this is one of my end-to-end data analysis projects where
 
 ### 4. Installing Libraries & Loading Data
 ```bash
-pip install pandas numpy sqlalchemy mysql-connector-python psycopg2
+pip install pandas numpy sqlalchemy mysql-connector-python 
 ```
 - Loaded the dataset into a Pandas DataFrame to start exploring it.
 
@@ -43,12 +43,12 @@ Here's what I cleaned up:
 ### 7. Feature Engineering
 - Added a `Total Amount` column by multiplying `unit_price × quantity` — this one column saved me a lot of repeated calculations in SQL later on.
 
-### 8. Loading Data into MySQL & PostgreSQL
-- Connected to both databases using SQLAlchemy
+### 8. Loading Data into MySQL
+- Connected to database using SQLAlchemy
 - Automated table creation and data insertion via Python
 - Ran quick validation queries to confirm everything loaded correctly
 
-### 9. SQL Analysis — The Fun Part
+### 9. SQL Analysis 
 This is where I answered real business questions using complex SQL queries:
 - Revenue trends across different branches and product categories
 - Best-selling categories and peak sales periods
@@ -64,9 +64,9 @@ This is where I answered real business questions using complex SQL queries:
 
 ## Tech Stack
 
-- **Python 3.8+**
-- **Databases**: MySQL, PostgreSQL
-- **Libraries**: `pandas`, `numpy`, `sqlalchemy`, `mysql-connector-python`, `psycopg2`
+- **Python **
+- **Databases**: MySQL
+- **Libraries**: `pandas`, `numpy`, `sqlalchemy`, `mysql-connector-python`
 - **Kaggle API** for data access
 
 ## Getting Started
@@ -104,12 +104,6 @@ A few things I want to add in future iterations:
 - Connect to Power BI or Tableau for interactive dashboards
 - Bring in additional data sources for richer analysis
 - Automate the pipeline for real-time ingestion
-
----
-
-## License
-
-MIT License
 
 ---
 
