@@ -1,14 +1,6 @@
-<img width="680" height="420" alt="walmart_project_architecture" src="https://github.com/user-attachments/assets/b4bcf587-2973-4482-9d5e-34c95e199522" /># Walmart Sales Data Analysis — SQL + Python Project
+# Walmart Sales Data Analysis — SQL + Python Project
 
-![Uploading <svg width="100%" viewBox="0 0 680 420" role="img" xmlns="http://www.w3.org/2000/svg">
-  <title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Walmart End-to-End Python + SQL Project Architecture</title>
-  <desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Flowchart showing data flow from Kaggle through Python to MySQL for business analysis</desc>
-  <defs>
-    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
-      <path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-    </marker>
-  </defs>
-
+<img width="680" height="420" alt="walmart_project_architecture" src="https://github.com/user-attachments/assets/b4bcf587-2973-4482-9d5e-34c95e199522" />
   <!-- Title banner -->
   <rect x="170" y="12" width="340" height="38" rx="10" fill="#0071CE" opacity="0.12" style="fill:rgb(0, 113, 206);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.12;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
   <text x="340" y="27" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="600" fill="#0071CE" opacity="0.9" style="fill:rgb(0, 113, 206);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.9;font-family:sans-serif;font-size:11px;font-weight:600;text-anchor:middle;dominant-baseline:auto">WALMART</text>
