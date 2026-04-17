@@ -52,10 +52,7 @@
     <text x="555" y="258" text-anchor="middle" dominant-baseline="central" style="fill:rgb(240, 153, 123);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:central">Solve Business Problems</text>
   </g>
 
-  <!-- Bottom label -->
-  <text x="340" y="404" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#888780" opacity="0.9" style="fill:rgb(136, 135, 128);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.9;font-family:sans-serif;font-size:10px;font-weight:400;text-anchor:middle;dominant-baseline:auto">Data Analysis Pipeline — by Priyanshi</text>
-</svg>walmart_project_architecture.svg…]()
-
+ 
 
 ## About This Project
 
