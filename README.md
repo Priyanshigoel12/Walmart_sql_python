@@ -1,7 +1,3 @@
-Here's your personalized README rewrite for Priyanshi:
-
----
-
 # Walmart Sales Data Analysis — SQL + Python Project
 
 ## About This Project
