@@ -1,6 +1,5 @@
 # Walmart Sales Data Analysis — SQL + Python Project
 
-<img width="680" height="420" alt="walmart_project_architecture" src="https://github.com/user-attachments/assets/b4bcf587-2973-4482-9d5e-34c95e199522" />
   <!-- Title banner -->
   <rect x="170" y="12" width="340" height="38" rx="10" fill="#0071CE" opacity="0.12" style="fill:rgb(0, 113, 206);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.12;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
   <text x="340" y="27" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="600" fill="#0071CE" opacity="0.9" style="fill:rgb(0, 113, 206);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.9;font-family:sans-serif;font-size:11px;font-weight:600;text-anchor:middle;dominant-baseline:auto">WALMART</text>
@@ -52,7 +51,6 @@
     <text x="555" y="258" text-anchor="middle" dominant-baseline="central" style="fill:rgb(240, 153, 123);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:central">Solve Business Problems</text>
   </g>
 
- 
 
 ## About This Project
 
